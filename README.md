@@ -22,3 +22,9 @@ En nuestro proyecto utilizamos un dataset de viajes de UBER cargado en **SQLite*
 - `uber.db` → base de datos SQLite.  
 - `consultas.sql` → queries ejecutadas.  
 - `README.md` → documentación e insights.
+
+## 🧠 Integrantes
+- Alí, José Ignacio
+- Galván, Franco José
+- Gomez, Juan José
+- Martinez, Melina Luz
