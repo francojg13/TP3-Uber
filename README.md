@@ -1,4 +1,4 @@
-# 🚖 UBER Trips Analysis
+# 🚖 UBER
 
 En nuestro proyecto utilizamos un dataset de viajes de UBER cargado en **SQLite**, y lo analizamos mediante SQL (CTE, Window Functions y OLAP).
 
