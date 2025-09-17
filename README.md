@@ -10,12 +10,12 @@ En nuestro proyecto utilizamos un dataset de viajes de UBER cargado en **SQLite*
    Encontramos los clientes más valiosos según el monto total gastado.
 
 3. **OLAP – Ingresos por ubicación y tipo de vehículo**  
-   Análisis multidimensional usando ROLLUP.
+   Las zonas céntricas concentran mayor cantidad de viajes cortos (pero frecuentes). En las zonas periféricas predominan viajes largos y de mayor valor. El OLAP simulado permite ver el detalle por ubicación, por tipo de vehículo y el total general.
 
 ## 🔍 Insights
 1. Los **vehículos Premium** (Premier Sedan, UberXL) tienen un valor promedio 2x mayor que los básicos (Go Mini, Auto).  
 2. El **top 10 de clientes** representa más del 20% de los ingresos, sugiriendo una estrategia de fidelización.  
-3. Las **zonas céntricas** generan más viajes cortos pero con mayor frecuencia, mientras que las zonas periféricas concentran viajes largos y de mayor valor.
+3. Las ubicaciones céntricas concentran volumen (más viajes cortos), mientras que las periféricas generan mayor valor por ticket → sugerencia para optimizar asignación de conductores.
 
 ## 📂 Archivos incluidos
 - `ncr_ride_bookings` → dataset original.  
